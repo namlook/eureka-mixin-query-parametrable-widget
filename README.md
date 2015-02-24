@@ -1,6 +1,6 @@
 # Eureka-mixin-query-parametrable-widget
 
-This README outlines the details of collaborating on this Ember addon.
+A mixin that allows Eureka's widgets to handle query params.
 
 ## Installation
 
