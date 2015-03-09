@@ -1,6 +1,6 @@
 {
   "name": "eureka-mixin-query-parametrable-widget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A mixin that allows Eureka's widgets to handle query params.",
   "directories": {
     "doc": "doc",
